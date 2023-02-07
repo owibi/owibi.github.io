@@ -9,7 +9,7 @@ version: 2
 name: Grégory Aubry
 title: Consultant Senior Sysops & Devops
 email: contact@g-host.in
-website: https://owibi.github.io/
+#website: https://owibi.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
