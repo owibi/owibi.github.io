@@ -7,17 +7,16 @@ version: 2
 
 # Personal info
 name: Grégory Aubry
-title: Consultant Senior Sysops & Devops senior 
+title: Consultant Senior Sysops & Devops
 email: contact@g-host.in
-tel: 00000000
-# website: https://owibi.github.io/
+website: https://owibi.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-# github_username:  owibi
+github_username:  owibi
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -49,9 +48,9 @@ darkmode: false
 about_title: Profile
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Passionné d'informatique, autodidacte, j'ai successivement occupé les postes de technicien informatique, administrateur systèmes et réseaux, directeur technique au sein d'une entreprise de gestion de parc informatique, sysadmin au sein d'une agence WEB, sysops une entreprises spécialisée en hébergement cloud et cluster. 
+  Passionné d'informatique, autodidacte, j'ai successivement occupé les postes de technicien informatique, administrateur systèmes et réseaux, directeur technique au sein d'une entreprise de gestion de parc informatique, sysadmin au sein d'une agence WEB, sysadmin / sysops pour une entreprises spécialisée en hébergement cloud et cluster. 
 
-  Fort de mes expériences dans différents univers sysops / méthodes / philosophie devops, j'ai une f sur les contraintes de developpement, déploiement cliées de productions et les process de développement 
+  Fort de mes expériences dans l'univers sysadmin mais éga / méthodes / philosophie devops, j'ai une f sur les contraintes de developpement, déploiement cliées de productions et les process de développement 
   
   Freelance depuis 2014, expatrié en Espagne, je propose mes services en tant que consultant Sysops et devops, <mark>100% remote</mark>
 
